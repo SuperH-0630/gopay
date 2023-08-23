@@ -10,9 +10,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/go-pay/gopay"
-	"github.com/go-pay/gopay/pkg/util"
-	"github.com/go-pay/gopay/pkg/xlog"
+	"github.com/SuperH-0630/gopay"
+	"github.com/SuperH-0630/gopay/pkg/util"
+	"github.com/SuperH-0630/gopay/pkg/xlog"
 )
 
 var (

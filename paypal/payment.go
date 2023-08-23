@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/go-pay/gopay"
+	"github.com/SuperH-0630/gopay"
 )
 
 // 支付授权详情（Show details for authorized payment）

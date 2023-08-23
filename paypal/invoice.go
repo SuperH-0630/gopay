@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/go-pay/gopay"
+	"github.com/SuperH-0630/gopay"
 )
 
 // 生成下一个发票号码（Generate invoice number）

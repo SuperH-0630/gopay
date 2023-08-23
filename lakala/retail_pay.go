@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/go-pay/gopay"
+	"github.com/SuperH-0630/gopay"
 )
 
 // 创建线下支付订单

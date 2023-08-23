@@ -6,8 +6,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/go-pay/gopay"
-	"github.com/go-pay/gopay/pkg/util"
+	"github.com/SuperH-0630/gopay"
+	"github.com/SuperH-0630/gopay/pkg/util"
 )
 
 // alipay.open.auth.token.app(换取应用授权令牌)

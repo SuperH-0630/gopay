@@ -5,10 +5,10 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/go-pay/gopay"
-	"github.com/go-pay/gopay/pkg/util"
-	"github.com/go-pay/gopay/pkg/xhttp"
-	"github.com/go-pay/gopay/pkg/xlog"
+	"github.com/SuperH-0630/gopay"
+	"github.com/SuperH-0630/gopay/pkg/util"
+	"github.com/SuperH-0630/gopay/pkg/xhttp"
+	"github.com/SuperH-0630/gopay/pkg/xlog"
 )
 
 // Client PayPal支付客户端

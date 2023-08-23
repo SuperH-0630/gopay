@@ -3,7 +3,7 @@ package wechat
 import (
 	"testing"
 
-	"github.com/go-pay/gopay/pkg/xlog"
+	"github.com/SuperH-0630/gopay/pkg/xlog"
 )
 
 func TestPaySignOfJSAPIp(t *testing.T) {

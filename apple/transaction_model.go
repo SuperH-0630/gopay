@@ -3,7 +3,7 @@ package apple
 import (
 	"fmt"
 
-	"github.com/go-pay/gopay/pkg/jwt"
+	"github.com/SuperH-0630/gopay/pkg/jwt"
 )
 
 type SignedTransaction string

@@ -14,12 +14,13 @@ import (
 	"io/ioutil"
 	"strings"
 
-	"github.com/go-pay/gopay"
-	"github.com/go-pay/gopay/pkg/util"
+	"github.com/SuperH-0630/gopay"
+	"github.com/SuperH-0630/gopay/pkg/util"
 	"golang.org/x/crypto/pkcs12"
 )
 
 // 添加QQ证书 Path 路径
+//
 //	certFilePath：apiclient_cert.pem 路径
 //	keyFilePath：apiclient_key.pem 路径
 //	pkcs12FilePath：apiclient_cert.p12 路径
@@ -39,6 +40,7 @@ func (q *Client) AddCertFilePath(certFilePath, keyFilePath, pkcs12FilePath any) 
 }
 
 // 添加QQ证书内容
+//
 //	certFileContent：apiclient_cert.pem 内容
 //	keyFileContent：apiclient_key.pem 内容
 //	pkcs12FileContent：apiclient_cert.p12 内容

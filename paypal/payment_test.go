@@ -3,8 +3,8 @@ package paypal
 import (
 	"testing"
 
-	"github.com/go-pay/gopay"
-	"github.com/go-pay/gopay/pkg/xlog"
+	"github.com/SuperH-0630/gopay"
+	"github.com/SuperH-0630/gopay/pkg/xlog"
 )
 
 func TestPaymentAuthorizeDetail(t *testing.T) {

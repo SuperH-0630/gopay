@@ -8,8 +8,8 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/go-pay/gopay"
-	"github.com/go-pay/gopay/pkg/util"
+	"github.com/SuperH-0630/gopay"
+	"github.com/SuperH-0630/gopay/pkg/util"
 )
 
 // alipay.system.oauth.token(换取授权访问令牌)
